@@ -1,0 +1,10 @@
+﻿  BackgroundSubtraction.cpp
+C:\Users\musta\source\repos\BackgroundSubtraction\BackgroundSubtraction\BackgroundSubtraction.cpp(355,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\musta\source\repos\BackgroundSubtraction\BackgroundSubtraction\BackgroundSubtraction.cpp(408,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\musta\source\repos\BackgroundSubtraction\BackgroundSubtraction\BackgroundSubtraction.cpp(396,6): warning C4101: 'gtPix': unreferenced local variable
+C:\Users\musta\source\repos\BackgroundSubtraction\BackgroundSubtraction\BackgroundSubtraction.cpp(396,13): warning C4101: 'methodPix': unreferenced local variable
+C:\Users\musta\source\repos\BackgroundSubtraction\BackgroundSubtraction\BackgroundSubtraction.cpp(482,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\musta\source\repos\BackgroundSubtraction\BackgroundSubtraction\BackgroundSubtraction.cpp(483,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\musta\source\repos\BackgroundSubtraction\BackgroundSubtraction\BackgroundSubtraction.cpp(484,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\musta\source\repos\BackgroundSubtraction\BackgroundSubtraction\BackgroundSubtraction.cpp(485,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  BackgroundSubtraction.vcxproj -> C:\Users\musta\source\repos\BackgroundSubtraction\x64\Debug\BackgroundSubtraction.exe
